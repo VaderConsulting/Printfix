@@ -1,6 +1,6 @@
 # Printfix
 
-VB6 working copy of `Printfix` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: PrintFix. Output: `PrintFix.exe`. `VersionCompanyName`: CSC.
+CSC VB6 Printer Fix for Clients (`PrintFix.exe` / `Printfix.vbp`): two-pass logon helper that clears stale `w32x86\2` spool drivers (`con2prt /f`, stop/start Spooler) and forces logoff so printers remount correctly. Open `Printfix.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
